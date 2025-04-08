@@ -1,0 +1,31 @@
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+.items-navegacion{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+nav{
+    background-color: rgb(187, 233, 184);
+}
+.primera-seccion{
+    background-color: rgb(237, 216, 189);
+}
+.primera-seccion{
+    background-color: rgb(220, 229, 185);
+    display: flex;
+    list-style-type: none;
+    text-align: left;
+    }
+    .segunda-seccion{
+        background-color: rgb(246, 245, 191);
+    }
+    .tercera-seccion{
+        background-color: rgb(249, 214, 190);
+    }
+    #boton-enviar{
+        background-color: rgb(185, 237, 102);
+    }
