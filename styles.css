@@ -29,3 +29,6 @@ nav{
     #boton-enviar{
         background-color: rgb(185, 237, 102);
     }
+    .inputCorreo{
+        width: 40%;
+    }

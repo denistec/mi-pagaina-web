@@ -10,7 +10,7 @@ document.getElementById("boton-enviar").addEventListener('click', function(){
     }
 })
 
-//OPCIÓN COMPAÑERA:
+// OPCIÓN COMPAÑERA:
 
 // document.getElementById("boton-enviar").addEventListener("click", function() {
 //     const input = document.getElementById("ingreso-texto");
